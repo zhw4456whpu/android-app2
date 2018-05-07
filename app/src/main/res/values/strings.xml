@@ -3,4 +3,7 @@
     <string name="splash_slogan">一切尽在掌握中</string>
     <string name="splash_version">1.0</string>
     <string name="splash_copyright">Copyright © 2018 FileManager All Rights Reserved \n Powered by Winterlz</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
