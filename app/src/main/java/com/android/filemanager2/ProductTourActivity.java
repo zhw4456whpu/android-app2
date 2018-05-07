@@ -7,6 +7,7 @@ import android.widget.Button;
 
 public class ProductTourActivity extends AppCompatActivity {
 
+    private Button skip;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
