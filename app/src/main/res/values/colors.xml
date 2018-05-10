@@ -5,4 +5,6 @@
     <color name="colorAccent">#FF4081</color>
     <color name="alpha_10_white">#aa8b8789</color>
     <color name="black">#000000</color>
+    <color name="dim_foreground_disable_material_dark">#fbb600</color>
+    <color name="text_selected">#6c4f01</color>
 </resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="welcome_fragment" type="id">0</item>
+    <item name="heading" type="id">1</item>
+    <item name="content" type="id">2</item>
+    <item name="a000" type="id">3</item>
+    <item name="a001" type="id">4</item>
+    <item name="a002" type="id">5</item>
+    <item name="a003" type="id">6</item>
+    <item name="a004" type="id">7</item>
+    <item name="a005" type="id">8</item>
+    <item name="a006" type="id">9</item>
+    <item name="a007" type="id">10</item>
+    <item name="a008" type="id">11</item>
+    <item name="a009" type="id">12</item>
+    <item name="a010" type="id">13</item>
+    <item name="a011" type="id">14</item>
+    <item name="a012" type="id">15</item>
+</resources>
